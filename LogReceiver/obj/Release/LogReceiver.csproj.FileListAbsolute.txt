@@ -1,0 +1,7 @@
+C:\Users\dusti\Dropbox\Programming\LogReceiver\LogReceiver\bin\Release\LogReceiver.exe.config
+C:\Users\dusti\Dropbox\Programming\LogReceiver\LogReceiver\bin\Release\LogReceiver.exe
+C:\Users\dusti\Dropbox\Programming\LogReceiver\LogReceiver\bin\Release\LogReceiver.pdb
+C:\Users\dusti\Dropbox\Programming\LogReceiver\LogReceiver\obj\Release\LogReceiver.Properties.Resources.resources
+C:\Users\dusti\Dropbox\Programming\LogReceiver\LogReceiver\obj\Release\LogReceiver.csproj.GenerateResource.Cache
+C:\Users\dusti\Dropbox\Programming\LogReceiver\LogReceiver\obj\Release\LogReceiver.exe
+C:\Users\dusti\Dropbox\Programming\LogReceiver\LogReceiver\obj\Release\LogReceiver.pdb
